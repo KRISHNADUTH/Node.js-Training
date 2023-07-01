@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/KRISHNADUTH/Node.js-Training/issues"
   },
-  "homepage": "https://github.com/KRISHNADUTH/Node.js-Training#readme"
+  "homepage": "https://github.com/KRISHNADUTH/Node.js-Training#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
