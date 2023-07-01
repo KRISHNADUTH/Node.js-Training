@@ -1,0 +1,24 @@
+{
+  "name": "node.js-training",
+  "version": "1.0.0",
+  "description": "This is node js training.",
+  "main": "server.js",
+  "scripts": {
+    "test": "node test",
+    "build": "npm install",
+    "run": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KRISHNADUTH/Node.js-Training.git"
+  },
+  "keywords": [
+    "Krishnaduth"
+  ],
+  "author": "Krishnaduth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KRISHNADUTH/Node.js-Training/issues"
+  },
+  "homepage": "https://github.com/KRISHNADUTH/Node.js-Training#readme"
+}
